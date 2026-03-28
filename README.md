@@ -52,3 +52,4 @@ Strong correlation between Purchase Qty & Sales Qty (0.999)
 Negative correlation between Profit Margin & Sales Price (-0.179)
 
 ## Dashboard
+<img width="1612" height="914" alt="image" src="https://github.com/user-attachments/assets/ffd9b513-4082-4631-a9d4-c5655b757187" />
